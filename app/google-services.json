@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671289472305",
+    "project_id": "phonefirebase-dcfd3",
+    "storage_bucket": "phonefirebase-dcfd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671289472305:android:24ee1a194e97680766ac10",
+        "android_client_info": {
+          "package_name": "com.example.phonefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671289472305-3frne8om944cp2cneookagm26tn8uq8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4dHE2WMx0lCK1XOwiGCvigVfne95WBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671289472305-3frne8om944cp2cneookagm26tn8uq8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

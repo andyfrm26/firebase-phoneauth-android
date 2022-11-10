@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Firebase Phone Auth</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="login">Masuk</string>
+    <string name="cover_image">Cover Image</string>
+    <string name="options">atau login menggunakan</string>
+    <string name="welcome_message">Selamat Datang!</string>
+    <string name="default_phone">+6281xxxxxxxxx</string>
+    <string name="your_phone_number">Nomor anda:</string>
+    <string name="logout">Logout</string>
+    <string name="developed_by">oleh: Andy Firmansyah</string>
+    <string name="input_phone_message">Masukkan Nomor Telepon</string>
+    <string name="country_code_indonesia">+62</string>
+    <string name="default_phone_hint">81xxxxxxxxxxxx</string>
+    <string name="input_otp_message">Masukkan Kode OTP</string>
+    <string name="otp_hint">Kode OTP</string>
+    <string name="verify_btn_message">Verifikasi OTP</string>
+</resources>
